@@ -16,8 +16,8 @@ See all posts on [Medium](https://medium.com/@domen.lanisnik)!
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@domen.lanisnik/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@domen.lanisnik/0" alt="Recent article #1"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@domen.lanisnik/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@domen.lanisnik/1" alt="Recent article #2"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@domen.lanisnik/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@domen.lanisnik/3" alt="Recent article #3"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@domen.lanisnik/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@domen.lanisnik/5" alt="Recent article #4"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@domen.lanisnik/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@domen.lanisnik/4" alt="Recent article #3"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@domen.lanisnik/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@domen.lanisnik/6" alt="Recent article #4"></a>
 
 <hr>
 <p align="center">
