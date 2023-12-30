@@ -17,7 +17,8 @@ testing, problem-solving, team leadership, scrum, mentoring, communication
 - [5 Kotlin Tips for a Cleaner Codebase](https://medium.com/@domen.lanisnik/5-kotlin-tips-for-a-cleaner-codebase-3582f2e4e2af)
 - [Getting Started with Feature Flags on Android](https://medium.com/@domen.lanisnik/getting-started-with-feature-flags-on-mobile-7a2a1c15bd14)
 - [Exploring the Official Pager Composable in Jetpack Compose](https://medium.com/@domen.lanisnik/exploring-the-official-pager-in-compose-8c2698c49a98)
-- [Data Objects in Kotlin](https://medium.com/@domen.lanisnik/data-objects-in-kotlin-1a549bfad657)
+- [Data Objects in Kotlin](https://medium.com/@domen.lanisnik/data-objects-in-kotlin-1a549bfad657) (featured in [Kotlin Weekly](http://www.kotlinweekly.net/) #352)
+
 
 See all posts on [Medium](https://medium.com/@domen.lanisnik)! 
 
