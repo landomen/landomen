@@ -19,6 +19,7 @@ testing, problem-solving, team leadership, scrum, mentoring, communication
 - [Modeling Domain Values and Restricted Class Hierarchies in Kotlin](https://medium.com/@domen.lanisnik/modeling-domain-values-and-restricted-class-hierarchies-in-kotlin-88d5555cc2c5)
 - [Exploring the Official Pager Composable in Jetpack Compose](https://medium.com/@domen.lanisnik/exploring-the-official-pager-in-compose-8c2698c49a98)
 - [Getting Started with Feature Flags on Android](https://medium.com/@domen.lanisnik/getting-started-with-feature-flags-on-mobile-7a2a1c15bd14)
+- [Guide to Foreground Services on Android 14](https://medium.com/@domen.lanisnik/guide-to-foreground-services-on-android-9d0127dc8f9a)
 
 
 See all posts on [Medium](https://medium.com/@domen.lanisnik)! 
