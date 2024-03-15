@@ -13,6 +13,7 @@ testing, problem-solving, team leadership, scrum, mentoring, communication
 
 ### My recent blog posts
 
+- [Optimizing Android App Size By Leveraging the WebP Image Format](https://medium.com/@domen.lanisnik/optimizing-android-app-size-by-leveraging-the-webp-image-format-87189f8c7603)
 - [Guide to Foreground Services on Android 14](https://medium.com/@domen.lanisnik/guide-to-foreground-services-on-android-9d0127dc8f9a)
 - [Screenshot Testing with Compose](https://medium.com/@domen.lanisnik/screenshot-testing-with-compose-9a84bd28b6fb)
 - [5 Kotlin Tips for a Cleaner Codebase](https://medium.com/@domen.lanisnik/5-kotlin-tips-for-a-cleaner-codebase-3582f2e4e2af)
