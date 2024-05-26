@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Domen Lanišnik,
 
-An experienced Senior Android Engineer with 8+ years of experience and a proven track record of success in architecting and developing large-scale mobile applications.
+An experienced Senior Android Engineer with over 9 years of experience and a proven track record of success in architecting and developing large-scale mobile applications.
 
 - Currently working at [Lyft](https://www.lyft.com/) on the Rider Android app with 50M+ downloads.
 - Previously one of the founding mobile engineers of [GlobaliD](https://www.about.global.id/) and an Android engineer at [Sportradar](https://sportradar.com/).
