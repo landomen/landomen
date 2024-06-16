@@ -25,7 +25,7 @@ testing, problem-solving, team leadership, scrum, mentoring, communication
 - [Getting Started with Feature Flags on Android](https://medium.com/@domen.lanisnik/getting-started-with-feature-flags-on-mobile-7a2a1c15bd14)
 
 
-See all posts on [Medium](https://medium.com/@domen.lanisnik)! 
+See all posts on [Medium](https://medium.com/@domen.lanisnik) or on [my blog](https://landomen.github.io/)!
 
 <hr>
 <p align="center">
