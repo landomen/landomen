@@ -13,6 +13,7 @@ testing, problem-solving, team leadership, scrum, mentoring, communication
 
 ### My recent blog posts
 
+- [Pull to Refresh with Compose Material 3](https://medium.com/@domen.lanisnik/pull-to-refresh-with-compose-material-3-26b37dbea966) (featured in [Android Weekly](https://androidweekly.net/) #643)
 - [7 Android Studio Usage Tips](https://medium.com/@domen.lanisnik/android-studio-usage-tips-4c6c47b716e8)
 - [Swift Cheatsheet for Android/Kotlin Developers](https://medium.com/@domen.lanisnik/swift-cheatsheet-for-android-kotlin-developers-19cce41e54c6) (featured in [Kotlin Weekly](http://www.kotlinweekly.net/) #404)
 - [Optimizing Android App Size By Leveraging the WebP Image Format](https://medium.com/@domen.lanisnik/optimizing-android-app-size-by-leveraging-the-webp-image-format-87189f8c7603)
