@@ -1,13 +1,12 @@
 ### Hi there 👋 I'm Domen Lanišnik,
 
-An experienced Senior Android Engineer with over 9 years of experience and a proven track record of success in architecting and developing large-scale mobile applications.
+An experienced Senior Android Engineer with 10 years of experience and a proven track record of success in architecting and developing large-scale mobile applications.
 
 - Currently working at [Lyft](https://www.lyft.com/) on the Rider Android app with 50M+ downloads.
 - Previously one of the founding mobile engineers of [GlobaliD](https://www.about.global.id/) and an Android engineer at [Sportradar](https://sportradar.com/).
 
 ### My skills include
-- Kotlin, Java, Android SDK, RxJava, Kotlin Coroutines & Flows, Dagger2/Hilt, Room, MVVM/MVI/MVP, Jetpack
-Compose, Git, Firebase, SQL
+- Kotlin, Java, Android SDK, Kotlin Multiplatform, Jetpack Compose, Kotlin Coroutines & Flows, RxJava, Dagger2/Hilt/Koin, Room, MVVM/MVI/MVP, Git, Firebase, SQL
 -  Data structures, algorithms, engineering best practices, unidirectional architecture, clean architecture, unit
 testing, problem-solving, team leadership, scrum, mentoring, communication
 
