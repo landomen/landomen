@@ -12,6 +12,7 @@ testing, problem-solving, team leadership, scrum, mentoring, communication
 
 ### My recent blog posts
 
+- [Kotlin’s Builder Functions: A Better Way to Create Lists, Maps, Strings & Sets](https://medium.com/proandroiddev/kotlins-builder-functions-a-better-way-to-create-lists-maps-strings-sets-77ddbe706303) (featured in [Android Weekly](https://androidweekly.net/) #674 and in [Kotlin Weekly](http://www.kotlinweekly.net/) #458)
 - [Pull to Refresh with Compose Material 3](https://medium.com/@domen.lanisnik/pull-to-refresh-with-compose-material-3-26b37dbea966) (featured in [Android Weekly](https://androidweekly.net/) #643)
 - [7 Android Studio Usage Tips](https://medium.com/@domen.lanisnik/android-studio-usage-tips-4c6c47b716e8)
 - [Swift Cheatsheet for Android/Kotlin Developers](https://medium.com/@domen.lanisnik/swift-cheatsheet-for-android-kotlin-developers-19cce41e54c6) (featured in [Kotlin Weekly](http://www.kotlinweekly.net/) #404)
